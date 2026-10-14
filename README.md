@@ -146,7 +146,7 @@ Servers that publish the capabilities and endpoints of Peppol participants.
 ## Command-line tools
 
 - [e-invoice-eu CLI](https://github.com/gflohr/e-invoice-eu/tree/main/apps/cli) - Command-line tool that generates EN 16931 invoices, including UBL, published on npm as `@e-invoice-eu/cli`.
-- [Peppol CLI](https://github.com/e-invoice-be/peppol-cli) - Go command-line client for the e-invoice.be Peppol API to send, receive, validate and look up participants.
+- [Peppol CLI](https://github.com/e-invoice-be/peppol-cli) - Command-line client for Peppol to send and receive documents, validate XML files and look up participants.
 
 ## MCP servers and agent skills
 
