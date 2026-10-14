@@ -13,11 +13,12 @@ This list is vendor-neutral. Entries from commercial and open-source projects ap
 - [Access Points and AS4](#access-points-and-as4)
 - [SMP servers](#smp-servers)
 - [Libraries](#libraries)
-  - [Go](#go)
-  - [Java](#java)
   - [JavaScript and TypeScript](#javascript-and-typescript)
   - [PHP](#php)
   - [Python](#python)
+  - [Ruby](#ruby)
+  - [Go](#go)
+  - [Java](#java)
   - [Other languages](#other-languages)
 - [Validation](#validation)
 - [Conversion and rendering](#conversion-and-rendering)
@@ -80,19 +81,6 @@ Servers that publish the capabilities and endpoints of Peppol participants.
 
 ## Libraries
 
-### Go
-
-- [einvoice](https://github.com/speedata/einvoice) - Go library to read, write and verify EN 16931 invoices that detects Peppol BIS Billing 3.0 rules.
-
-### Java
-
-- [peppol-bis-billing-3-generator](https://github.com/digipost/peppol-bis-billing-3-generator) - Java code from Digipost that generates Peppol BIS Billing 3.0 invoice XML.
-- [peppol-commons](https://github.com/phax/peppol-commons) - Shared Peppol components for identifiers, code lists, SBDH, SMP and SML clients, MLR and MLS.
-- [peppol-reporting](https://github.com/phax/peppol-reporting) - Java library for Peppol Transaction Statistics Reports (TSR) and End User Statistics Reports (EUSR).
-- [ph-sbdh](https://github.com/phax/ph-sbdh) - Java library to read and write UN/CEFACT Standard Business Document Header (SBDH) documents.
-- [ph-ubl](https://github.com/phax/ph-ubl) - Java library to read and write UBL 2.0, 2.1, 2.2, 2.3, 2.4 and 2.5 documents.
-- [vefa-peppol](https://github.com/OxalisCommunity/vefa-peppol) - Peppol support library from the Oxalis community, used by the Oxalis Access Point.
-
 ### JavaScript and TypeScript
 
 - [e-invoice-api](https://github.com/e-invoice-be/e-invoice-ts) - TypeScript client for the e-invoice.be Peppol API, published on npm as `e-invoice-api`.
@@ -103,6 +91,7 @@ Servers that publish the capabilities and endpoints of Peppol participants.
 
 ### PHP
 
+- [e-invoice-api](https://github.com/e-invoice-be/e-invoice-php) - PHP client for the e-invoice.be Peppol API, published on Packagist as `e-invoice/e-invoice-api`.
 - [e-invoicing](https://github.com/easybill/e-invoicing) - PHP library from easybill to generate and read EN 16931 XML in UBL and CII syntax.
 - [einvoicing](https://github.com/josemmo/einvoicing) - PHP library to read and create EN 16931 invoices, with a Peppol BIS preset.
 - [ubl-invoice](https://github.com/num-num/ubl-invoice) - Object-oriented PHP library to read and create UBL and Peppol BIS files.
@@ -111,6 +100,24 @@ Servers that publish the capabilities and endpoints of Peppol participants.
 
 - [e-invoice-api](https://github.com/e-invoice-be/e-invoice-py) - Python client for the e-invoice.be Peppol API, published on PyPI as `e-invoice-api`.
 - [peppol-py](https://github.com/iterasdev/peppol-py) - Python implementation to send Peppol eDelivery AS4 documents, also published on PyPI.
+
+### Ruby
+
+- [e-invoice-api](https://github.com/e-invoice-be/e-invoice-rb) - Ruby client for the e-invoice.be Peppol API, published on RubyGems as `e-invoice-api`.
+
+### Go
+
+- [einvoice](https://github.com/speedata/einvoice) - Go library to read, write and verify EN 16931 invoices that detects Peppol BIS Billing 3.0 rules.
+
+### Java
+
+- [e-invoice-java](https://github.com/e-invoice-be/e-invoice-java) - Java client for the e-invoice.be Peppol API.
+- [peppol-bis-billing-3-generator](https://github.com/digipost/peppol-bis-billing-3-generator) - Java code from Digipost that generates Peppol BIS Billing 3.0 invoice XML.
+- [peppol-commons](https://github.com/phax/peppol-commons) - Shared Peppol components for identifiers, code lists, SBDH, SMP and SML clients, MLR and MLS.
+- [peppol-reporting](https://github.com/phax/peppol-reporting) - Java library for Peppol Transaction Statistics Reports (TSR) and End User Statistics Reports (EUSR).
+- [ph-sbdh](https://github.com/phax/ph-sbdh) - Java library to read and write UN/CEFACT Standard Business Document Header (SBDH) documents.
+- [ph-ubl](https://github.com/phax/ph-ubl) - Java library to read and write UBL 2.0, 2.1, 2.2, 2.3, 2.4 and 2.5 documents.
+- [vefa-peppol](https://github.com/OxalisCommunity/vefa-peppol) - Peppol support library from the Oxalis community, used by the Oxalis Access Point.
 
 ### Other languages
 
