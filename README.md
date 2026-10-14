@@ -70,7 +70,6 @@ Software that sends and receives Peppol documents over AS4.
 - [Oxalis-NG](https://github.com/OxalisCommunity/oxalis-ng) - Next generation of Oxalis, an open-source Java implementation of the OpenPeppol AS4 profile.
 - [phase4](https://github.com/phax/phase4) - Embeddable Java AS4 client and server with built-in Peppol and EC eDelivery profiles.
 - [phoss AP](https://github.com/phax/phoss-ap) - Open-source Peppol Access Point built on phase4 and Spring Boot.
-- [Recommand Peppol](https://github.com/recommand/recommand-peppol) - Open-source Peppol Access Point with a REST API, written in TypeScript.
 
 ## SMP servers
 
@@ -141,7 +140,6 @@ Servers that publish the capabilities and endpoints of Peppol participants.
 ## Command-line tools
 
 - [e-invoice-eu CLI](https://github.com/gflohr/e-invoice-eu/tree/main/apps/cli) - Command-line tool that generates EN 16931 invoices, including UBL, published on npm as `@e-invoice-eu/cli`.
-- [getpeppr CLI](https://www.npmjs.com/package/@getpeppr/cli) - Command-line tool for Peppol e-invoice validation and development, from the getpeppr platform.
 - [Peppol CLI](https://github.com/e-invoice-be/peppol-cli) - Go command-line client for the e-invoice.be Peppol API to send, receive, validate and look up participants.
 
 ## MCP servers and agent skills
