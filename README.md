@@ -64,7 +64,6 @@ Software that sends and receives Peppol documents over AS4.
 
 - [Domibus](https://ec.europa.eu/digital-building-blocks/sites/spaces/DIGITAL/pages/467110244/Domibus) - European Commission reference implementation of the eDelivery AS4 profile, written in Java.
 - [Holodeck B2B](https://github.com/holodeck-b2b/Holodeck-B2B) - Java AS4 messaging gateway that implements the OASIS ebMS3 and AS4 specifications.
-- [Let's Peppol](https://github.com/letspeppol/letspeppol) - Open-source Peppol Access Point project for small businesses, run by the Belgian non-profit BARGE vzw.
 - [Node42 eDelivery](https://github.com/node42-dev/node42-edelivery) - Node.js Peppol toolkit for SMP lookup, document validation and AS4 sending and receiving.
 - [Oxalis](https://github.com/OxalisCommunity/oxalis) - Original open-source Java Peppol Access Point. New feature work happens in Oxalis-NG.
 - [Oxalis-NG](https://github.com/OxalisCommunity/oxalis-ng) - Next generation of Oxalis, an open-source Java implementation of the OpenPeppol AS4 profile.
