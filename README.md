@@ -171,6 +171,7 @@ Model Context Protocol servers and skills that give AI assistants access to Pepp
 ## Test tools and sample files
 
 - [BIS Billing 3.0 examples](https://github.com/OpenPeppol/peppol-bis-invoice-3/tree/master/rules/examples) - Official OpenPeppol example invoices and credit notes for Peppol BIS Billing 3.0.
+- [E-invoice conformance matrix](https://github.com/kobima6813/einvoice-conformance-matrix) - Reproducible matrix and GitHub Action that run EN 16931 generator output through KoSIT, CEN and Peppol BIS validators.
 - [NPa Peppol Test Tool](https://test.peppolautoriteit.nl/) - Dutch Peppol Authority tool to send and receive test documents on the Peppol test network.
 - [Peppol Testbed](https://www.testbed.peppol.org/) - OpenPeppol conformance testing platform for Access Point and SMP service providers.
 - [SI-UBL test set](https://github.com/peppolautoriteit-nl/testset) - Dutch Peppol Authority test documents for SI-UBL that should pass, warn or fail validation.
