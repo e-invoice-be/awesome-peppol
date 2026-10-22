@@ -135,7 +135,7 @@ Servers that publish the capabilities and endpoints of Peppol participants.
 - [ph-schematron](https://github.com/phax/ph-schematron) - Java Schematron library with pure, XSLT and SchXslt engines.
 - [phive](https://github.com/phax/phive) - Generic Java validation engine for business documents, based on XML Schema and Schematron.
 - [phive-rules](https://github.com/phax/phive-rules) - Validation rule sets for phive, including Peppol BIS, EN 16931, XRechnung and other national formats.
-- [xmlvalid](https://xmlvalid.com/schematron-validator) - Online validator for Peppol BIS 3.0 and EN 16931 invoices that runs the Schematron rules in the browser without uploading them.
+- [xmlvalid](https://xmlvalid.com/schemas/peppol-bis-3-invoice) - Online validator for Peppol BIS 3.0, Peppol PINT and EN 16931 invoices that runs the Schematron rules in the browser without uploading them.
 
 ## Conversion and rendering
 
