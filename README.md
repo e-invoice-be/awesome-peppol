@@ -162,6 +162,7 @@ Model Context Protocol servers and skills that give AI assistants access to Pepp
 ## Directories and lookup
 
 - [Certified Peppol Service Providers](https://peppol.org/members/peppol-certified-service-providers/) - OpenPeppol list of certified Access Point and SMP service providers.
+- [E-Invoice Map Peppol lookup](https://einvoicemap.com/en/peppol-lookup/) - Web lookup showing whether a company can receive Peppol invoices, its access point and accepted document types.
 - [e-invoice.be Peppol Radar](https://e-invoice.be/peppol-radar) - Web tool to look up Peppol IDs and check registration status, with bulk checks from a CSV file.
 - [Peppol Directory](https://directory.peppol.eu/) - Official OpenPeppol search for registered participants, with XML, JSON and CSV exports.
 - [Peppol Practical participant check](https://peppol.helger.com/public/menuitem-tools-participant) - Online tool to query the SML and SMP records of a Peppol participant identifier.
