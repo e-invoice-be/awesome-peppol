@@ -130,6 +130,7 @@ Servers that publish the capabilities and endpoints of Peppol participants.
 - [KoSIT Validator](https://github.com/itplr-kosit/validator) - Java command-line tool and library that validates XML with XML Schema and Schematron scenarios.
 - [KoSIT Validator configuration for Peppol BIS](https://github.com/itplr-kosit/validator-configuration-bis) - Ready-to-use KoSIT Validator scenarios for Peppol BIS Billing 3.0.
 - [Mustang](https://github.com/ZUGFeRD/mustangproject) - Java library, validator and command-line tool for Factur-X, ZUGFeRD, XRechnung and CII invoices.
+- [NYO e-invoice validator](https://nyo-agentti.github.io/) - Online validator and API for EN 16931, XRechnung and Peppol BIS Billing 3.0, with rule pages and a UBL repair API.
 - [Peppol Practical validation](https://peppol.helger.com/public/menuitem-validation-upload) - Online upload validator based on phive for Peppol BIS and many national rule sets.
 - [peppolvalidator.com](https://peppolvalidator.com/) - Online validator for UBL invoices and credit notes against BIS Billing 3.0, EN 16931 and national rules.
 - [ph-schematron](https://github.com/phax/ph-schematron) - Java Schematron library with pure, XSLT and SchXslt engines.
