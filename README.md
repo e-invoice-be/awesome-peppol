@@ -141,6 +141,7 @@ Servers that publish the capabilities and endpoints of Peppol participants.
 - [BIS presentation XSLT](https://github.com/SingleFaceToIndustry/bis_presentation_xslt) - XSLT stylesheets that render key Peppol BIS transactions in a human-readable form.
 - [en16931-cii2ubl](https://github.com/phax/en16931-cii2ubl) - Java converter for EN 16931 invoices from UN/CEFACT CII to UBL.
 - [GOBL UBL](https://github.com/invopop/gobl.ubl) - Go library that converts GOBL documents to and from UBL, with a Peppol context.
+- [InvoiceVerify UBL viewer](https://peppol-invoice-compass.lovable.app/tools/ubl-viewer) - Browser-based viewer that shows Peppol UBL invoice XML as a readable invoice, without uploading the file.
 - [XRechnung visualization](https://github.com/itplr-kosit/xrechnung-visualization) - XSL transformations that render XRechnung and EN 16931 invoices as HTML or PDF.
 
 ## Command-line tools
