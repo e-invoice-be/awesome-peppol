@@ -131,6 +131,7 @@ Servers that publish the capabilities and endpoints of Peppol participants.
 - [KoSIT Validator configuration for Peppol BIS](https://github.com/itplr-kosit/validator-configuration-bis) - Ready-to-use KoSIT Validator scenarios for Peppol BIS Billing 3.0.
 - [Mustang](https://github.com/ZUGFeRD/mustangproject) - Java library, validator and command-line tool for Factur-X, ZUGFeRD, XRechnung and CII invoices.
 - [Peppol Practical validation](https://peppol.helger.com/public/menuitem-validation-upload) - Online upload validator based on phive for Peppol BIS and many national rule sets.
+- [Peppol UBL check](https://github.com/kalmwerk/peppol-ubl-check) - GitHub Action and CLI that checks UBL invoices offline against a subset of EN 16931 and Peppol BIS rules.
 - [peppolvalidator.com](https://peppolvalidator.com/) - Online validator for UBL invoices and credit notes against BIS Billing 3.0, EN 16931 and national rules.
 - [ph-schematron](https://github.com/phax/ph-schematron) - Java Schematron library with pure, XSLT and SchXslt engines.
 - [phive](https://github.com/phax/phive) - Generic Java validation engine for business documents, based on XML Schema and Schematron.
@@ -141,6 +142,7 @@ Servers that publish the capabilities and endpoints of Peppol participants.
 - [BIS presentation XSLT](https://github.com/SingleFaceToIndustry/bis_presentation_xslt) - XSLT stylesheets that render key Peppol BIS transactions in a human-readable form.
 - [en16931-cii2ubl](https://github.com/phax/en16931-cii2ubl) - Java converter for EN 16931 invoices from UN/CEFACT CII to UBL.
 - [GOBL UBL](https://github.com/invopop/gobl.ubl) - Go library that converts GOBL documents to and from UBL, with a Peppol context.
+- [InvoiceVerify UBL viewer](https://peppol-invoice-compass.lovable.app/tools/ubl-viewer) - Browser-based viewer that shows Peppol UBL invoice XML as a readable invoice, without uploading the file.
 - [XRechnung visualization](https://github.com/itplr-kosit/xrechnung-visualization) - XSL transformations that render XRechnung and EN 16931 invoices as HTML or PDF.
 
 ## Command-line tools
