@@ -94,6 +94,7 @@ Servers that publish the capabilities and endpoints of Peppol participants.
 - [e-invoice-api](https://github.com/e-invoice-be/e-invoice-php) - PHP client for the e-invoice.be Peppol API, published on Packagist as `e-invoice/e-invoice-api`.
 - [e-invoicing](https://github.com/easybill/e-invoicing) - PHP library from easybill to generate and read EN 16931 XML in UBL and CII syntax.
 - [einvoicing](https://github.com/josemmo/einvoicing) - PHP library to read and create EN 16931 invoices, with a Peppol BIS preset.
+- [quittio](https://github.com/Quittio/quittio) - PHP library with optional Laravel integration to create, read and validate EN 16931 invoices, including Peppol BIS Billing 3.0.
 - [ubl-invoice](https://github.com/num-num/ubl-invoice) - Object-oriented PHP library to read and create UBL and Peppol BIS files.
 
 ### Python
